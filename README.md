@@ -1,4 +1,4 @@
-### **Final Project using OpenDataPhilly**
+### **OpenDataPhilly Data Analysis - Java App**
 
 In this project, we apply what we’ve learned this semester about data structures, design principles, and design patterns in developing a Java application to read files of various formats as input and perform some analysis.
 
