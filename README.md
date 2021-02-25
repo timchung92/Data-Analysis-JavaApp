@@ -1,5 +1,4 @@
-# cit-594-group-final-project
-### **Group Final Project using OpenDataPhilly**
+### **Final Project using OpenDataPhilly**
 
 In this project, we apply what we’ve learned this semester about data structures, design principles, and design patterns in developing a Java application to read files of various formats as input and perform some analysis.
 
